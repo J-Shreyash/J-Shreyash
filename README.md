@@ -9,19 +9,28 @@
 </h1>
 
 
-<p align="right">
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+
+  <!-- About Me Section on the Left -->
+  <div style="flex: 1; padding-right: 20px;">
+    <h3>💫 About Me:</h3>
+    <p>
+      Aspiring Computer Engineer | Machine learning | Deep learning enthusiast.
+    </p>
+    <p>
+      Final-year student, at Vellore Institute of Technology, Chennai, pursuing Bachelor’s in Computer Science & Engineering. Dedicated to mastering technology and consistently striving to expand my knowledge in the field. Managed and organized college events and passionate about giving back to the community and meeting new people. Learning data science, and machine learning, and a Deep learning enthusiast as well.
+    </p>
+  </div>
+
+  <!-- Image Section on the Right -->
+  <div style="flex-shrink: 0;">
     <a href='https://moewalls.com/lifestyle/typical-night-live-wallpaper/' target='_blank'>
-        <img src='https://moewalls.com/wp-content/uploads/2022/05/typical-night-thumb-728x410.jpg' title='Typical Night Live Wallpaper' alt='Typical Night Live Wallpaper' style="width: 500px;">
+      <img src='https://moewalls.com/wp-content/uploads/2022/05/typical-night-thumb-728x410.jpg' 
+           title='Typical Night Live Wallpaper' alt='Typical Night Live Wallpaper' style="max-width: 300px; height: auto;">
     </a>
-</p>
+  </div>
 
-### 💫 About Me:
-Aspiring Computer Engineer | Machine learning | Deep learning enthusiast.
-
-Final-year student, at Vellore Institute of Technology, Chennai, pursuing Bachelor’s in Computer Science & Engineering. Dedicated to
-mastering technology and consistently striving to expand my knowledge in the field. Managed and organized college events and passionate
-about giving back to the community and meeting new people. Learning data science, and machine learning, and a Deep learning enthusiast
-as well..
+</div>
 
 
 ## 🌐 Socials:
