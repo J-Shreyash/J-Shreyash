@@ -18,7 +18,7 @@
       Aspiring Computer Engineer | Machine learning | Deep learning enthusiast.
     </p>
     <p>
-      Final-year student, at Vellore Institute of Technology, Chennai, pursuing Bachelor’s in Computer Science & Engineering. Dedicated to mastering technology and consistently striving to expand my knowledge in the field. Managed and organized college events and passionate about giving back to the community and meeting new people. Learning data science, and machine learning, and a Deep learning enthusiast as well.
+I’m a Generative AI and Machine Learning enthusiast with a background in Computer Science & Engineering from VIT Chennai. Passionate about building real-world AI systems—from deep learning models to LLM-powered automation—and constantly exploring how Gen AI can reshape the way we work and live.
     </p>
   </div>
 
