@@ -15,7 +15,6 @@
   <div style="flex: 1; padding-right: 20px;">
     <h3>💫 About Me:</h3>
     <p>
-      Aspiring Computer Engineer | Machine learning | Deep learning enthusiast.
     </p>
     <p>
 I’m a Generative AI and Machine Learning enthusiast with a background in Computer Science & Engineering from VIT Chennai. Passionate about building real-world AI systems—from deep learning models to LLM-powered automation—and constantly exploring how Gen AI can reshape the way we work and live.
